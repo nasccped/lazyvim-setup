@@ -6,3 +6,6 @@ debug
 foo.*
 *.log
 data
+
+# my personal ignores
+helpvim.txt
