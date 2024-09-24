@@ -1,6 +1,6 @@
 return {
 
-  { "AlexvZil/nordic.nvim" },
+  { "AlexvZyl/nordic.nvim" },
 
   { "LazyVim/LazyVim" },
 }
